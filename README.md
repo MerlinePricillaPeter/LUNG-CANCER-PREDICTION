@@ -8,6 +8,7 @@ Prerequisites
 
 # KEY OBJECTIVES OF THE PROJECT:
  1.Data Preprocessing: The project entails cleaning and preprocessing a dataset, which includes class imbalances, scaling numerical characteristics, managing missing values, and encoding categorical variables.
+ 
  2.Data Exploration and Visualisation: The project's goal is to understand data distributions, feature correlations, and the connections between symptoms and lung cancer using a variety of visualisations, including pie charts, count plots, heatmaps, and histograms.
  3.Multiple Classification Models: A number of machine learning models are trained and evaluated, such as Decision Trees, XGBoost, Support Vector Machines (SVM), Naive Bayes, and Gradient Boosting.
  4.Hyperparameter tuning: To determine the optimal model configuration, hyperparameters of models are adjusted using methods such as GridSearchCV and RandomizedSearchCV.
