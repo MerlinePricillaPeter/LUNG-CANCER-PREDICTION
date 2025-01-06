@@ -43,3 +43,8 @@ Prerequisites
  2.Feature Selection: The model's performance may suffer from redundant or irrelevant features. Permutation importance and other feature importance algorithms are useful for identifying important factors contributing to predictions.
 # SUMMARY
 By the end of the project, we want to have created an accurate machine learning model that can predict lung cancer. This model will be chosen based on performance metrics and enhanced through hyperparameter tuning. The research serves as an example of the use of machine learning to healthcare, particularly in the area of risk prediction. It highlights how crucial model assessment, data the pretreatment process, and improvement are to the machine learning process.
+# Contributions
+Contributions are welcome! Please feel free to submit a pull request or raise an issue.
+
+# License
+This project is licensed under the MIT License.
