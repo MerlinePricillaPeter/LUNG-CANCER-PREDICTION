@@ -4,7 +4,24 @@ This project aims to predict lung cancer using various machine learning models s
 Prerequisites
  1.	Python 3.7 or higher
  2.	Imbalanced Learn 
- 3.	Required Python libraries as listed 
+ 3.	Required Python libraries as listed
+# FEATURES FROM THE DATASET THAT WAS USED:
+1.Gender
+2.Age
+3.Smoking
+4.Yellow Fingers
+5.Anxiety
+6.Peer Pressure
+7.Chronic Disease
+8.Fatigue
+9.Allergy
+10.Wheezing
+11.Alcohol Consuming
+12.Coughing
+13.Shortness of Breath
+14.Swallowing Difficulty
+15.Chest Pain
+16.Lung Cancer (Target Variable)
 
 # KEY OBJECTIVES OF THE PROJECT:
  1.Data Preprocessing: The project entails cleaning and preprocessing a dataset, which includes class imbalances, scaling numerical characteristics, managing missing values, and encoding categorical variables.
